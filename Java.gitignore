@@ -1,3 +1,16 @@
+# maven build dir
+target
+
+# mac os finder
+.DS_Store
+
+# eclipse project file and directories
+.project
+.classpath
+.tern-project
+.settings
+.mvn
+
 # Compiled class file
 *.class
 
